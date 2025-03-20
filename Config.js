@@ -4,13 +4,13 @@ global.settings = {
   OWNER_NUMBERS: '2348160247341', // replace with your number with country code
   OWNER_NAME: 'シ', // you owner name 
   BOT_NAME: 'Kord AI', // your preferred bot name
-  SESSION_ID: '', // replace your_sessionid with yours and make sure its inside the ''
+  SESSION_ID: 'kord_ai-hLkejyfGyGOW', // replace your_sessionid with yours and make sure its inside the ''
   INVINCIBLE_MODE: false, // toogle invincible mode 
-  WORK_MODE: "public",
+  WORK_MODE: "private",
   TIME_ZONE: "Africa/Lagos",
-  ANTI_VIEWONCE: true,
+  ANTI_VIEWONCE: false,
   READ_ALL_MESSAGES: false, //commands are marked read
-  AUTO_READ_STATUS: true,
+  AUTO_READ_STATUS: false,
   LOG_MESSAGES_AT_CONSOLE: false,
   PREFIX: ["."], 
   REJECT_CALLS: false,
@@ -19,7 +19,7 @@ global.settings = {
   COMMAND_COOLDOWN_TIME_IN_MS: 0.01,
   MAX_COMMANDS_PER_MINUTE: 100,
   MAX_DOWNLOAD_SIZE: 100,
-  AUTO_LIKE_STATUS: true,
+  AUTO_LIKE_STATUS: false,
   AUTO_LIKE_EMOJI: '🫆',
   BANKING_DETAILS: {
     bank: "Kord-Ai Bank", // the name of your preferred bank
